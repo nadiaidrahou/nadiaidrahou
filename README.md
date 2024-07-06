@@ -1,12 +1,11 @@
-<img align="center" alt="banner" src="https://media.licdn.com/dms/image/D4E16AQFCYqMDwtP5eQ/profile-displaybackgroundimage-shrink_350_1400/0/1688825445362?e=1694649600&v=beta&t=ACKMajN1AZzHo-dSeXywnoXVLy1ftmi8MuzeklqXeTg">
 <h1 align="center">Hi 👋, I'm Idrahou Nadia</h1>
-<h3 align="center">A passionate developer Mutimédia from Morocco</h3>
+<h3 align="center">A passionate developer Wordpress Designer from Morocco</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning **more about JavaScript**
+- 🌱 I’m currently learning **more about WordPress JavaScript**
 
-- 💬 Ask me about **HTML 5|CSS 3|JavaScript|PHP|WordPress**
+- 💬 Ask me about **HTML 5|CSS 3|JavaScript|PHP|WordPress|Adobe illustrator|Adobe Photoshop**
 
 - 📫 How to reach me **nadiaidrahou03@gmail.com**
 
