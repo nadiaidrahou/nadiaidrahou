@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **nadiaidrahou03@gmail.com**
 -  **+212 680191037**
--  N'hésitez pas à jeter un coup d'œil à mon portfolio https://nadiaidrahou.great-site.net
+-  N'hésitez pas à jeter un coup d'œil à mon portfolio
+-  **https://nadiaidrahou.great-site.net**
 
    
 <h3 align="left">Connect with me:</h3>
