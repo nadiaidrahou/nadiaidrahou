@@ -8,7 +8,8 @@
 - 💬 Demandez-moi des informations sur HTML5, CSS3, JavaScript, PHP, WordPress, Adobe Illustrator et Adobe Photoshop.
 
 - 📫 How to reach me **nadiaidrahou03@gmail.com**
--  **06 80 19 10 37**
+-  **+212 680191037**
+-  N'hésitez pas à jeter un coup d'œil à mon portfolio **nadiaidrahou.great-site.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
