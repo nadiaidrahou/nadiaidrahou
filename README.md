@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **nadiaidrahou03@gmail.com**
 -  **+212 680191037**
--  N'hésitez pas à jeter un coup d'œil à mon portfolio **[nadiaidrahou.great-site.net*](https://nadiaidrahou.great-site.net
-)*
-
+-  N'hésitez pas à jeter un coup d'œil à mon portfolio [nadiaidrahou.great-site.net*](https://nadiaidrahou.great-site.net
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//nadia-idrahou-594b4025b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/nadia-idrahou-594b4025b" height="30" width="40" /></a>
