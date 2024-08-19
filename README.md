@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Idrahou Nadia</h1>
-<h3 align="center">A passionate developer Wordpress Designer from Morocco</h3>
+<h1 align="center">Bonjour 👋, Je suis Nadia Idrahou.</h1>
+<h3 align="center">Développeuse et designer WordPress passionnée, originaire de Casablanca, au Maroc.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning **more about WordPress JavaScript**
+- 🌱 I’m currently learning **more about WordPress photoshop**
 
 - 💬 Ask me about **HTML 5|CSS 3|JavaScript|PHP|WordPress|Adobe illustrator|Adobe Photoshop**
 
