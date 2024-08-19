@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning **more about WordPress photoshop**
+- 🌱 Je suis actuellement en train d'approfondir mes connaissances en WordPress et Photoshop.
 
-- 💬 Ask me about **HTML 5|CSS 3|JavaScript|PHP|WordPress|Adobe illustrator|Adobe Photoshop**
+- 💬 Demandez-moi des informations sur HTML5, CSS3, JavaScript, PHP, WordPress, Adobe Illustrator et Adobe Photoshop.
 
 - 📫 How to reach me **nadiaidrahou03@gmail.com**
 -  **06 80 19 10 37**
